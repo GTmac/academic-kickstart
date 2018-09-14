@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Data Mining",
+    "Machine Learning",
+    "Representation Learning",
+    "Graph Mining",
+    "Network Embeddings",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Computer Science"
+  institution = "Stony Brook University"
+  year = 2019
+
+[[education.courses]]
+  course = "MEng in Computer Science"
+  institution = "Harbin Institute of Technology"
+  year = 2014
+
+[[education.courses]]
+  course = "BEng in Computer Science"
+  institution = "Harbin Institute of Technology"
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Haochen Chen is a 4th Year PhD candidate in the [Computer Science Department](https://www.cs.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/), supervised by [Prof. Steven Skiena](http://www3.cs.stonybrook.edu/~skiena/). His research interests include data mining (large-scale graph mining in particular), machine learning and representation learning.
+Previously, he obtained master and bachelor’s degree in Computer Science both at [Harbin Institute of Technology](http://en.hit.edu.cn/), in 2014 and 2012 respectively.
