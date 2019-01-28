@@ -1,6 +1,6 @@
 +++
 title = "Social Relation Inference via Label Propagation"
-date = 2019-04-15
+date = 2019-01-15
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
